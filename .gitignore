@@ -1,0 +1,5 @@
+node_modules
+my-shop
+.idea
+.DS_Store
+config.js
